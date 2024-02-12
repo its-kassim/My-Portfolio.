@@ -1,0 +1,5 @@
+print("eMobilis")
+print("Bethwel")
+print(100)
+print(39+1)
+print("Hello world")
